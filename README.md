@@ -12,6 +12,8 @@ Smoke alarms detect fires by sensing small particles in the air.
 Buzzer meaning electronic component that generates sound through the transmission of electrical signals.
 ➤Jumper Wires
 Jumper wires are electrical wires with connector pins at each end They are used to connect two points in a circuit without soldering.
+
+
 Algorithm -
 Start
             |
